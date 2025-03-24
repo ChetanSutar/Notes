@@ -8,6 +8,7 @@ namespace FileHandling
 {
     internal class ThreadExample
     {
+        int a = 1;
         //thread
     }
 }
